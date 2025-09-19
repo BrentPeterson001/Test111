@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+.nav-1 ul {
+    display: flex;
+    list-style: none;
+}
+.navs {
+    padding: 50px;
+    
+}
+.SimplyOne {
+    padding: 50px 50px 50px 600px;
+}
+.ContactUs {
+    padding: 50px 50px 50px 950px;
+}
+.nav-1 ul li a {
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+}
+header {
+    box-shadow: 0px 0.5px 1px 0px rgb(233, 233, 233);
+}
+.Hello {
+    font-size: 120px;
+    padding-left: 100px;
+}
